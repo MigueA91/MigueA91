@@ -20,7 +20,7 @@ Actualmente explorando nuevas tecnologías como **Cloud Computing (Azure/AWS)** 
 - Cloud Computing (Azure/AWS)
 
 ## 🌐 Conecta conmigo:
-- [LinkedIn]([https://www.linkedin.com/in/miguel-ismael-acuña-gaete)]
+- [LinkedIn](https://www.linkedin.com/in/miguel-ismael-acuña-gaete)
 - Email: miguel.acuna.g@gmail.com / macunaga@fen.uchile.cl
   
 
