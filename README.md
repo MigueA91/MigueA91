@@ -8,6 +8,7 @@ Actualmente explorando nuevas tecnologías como **Cloud Computing (Azure/AWS)** 
 - Python (automatización, análisis de datos, machine learning)
 - Pandas, NumPy, Scikit-Learn
 - Power BI
+- Docker
 - SQL
 - Git y GitHub
 - Microsoft Azure (en formación)
