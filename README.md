@@ -7,6 +7,7 @@ Actualmente me encuentro en proceso de incorporar herramientas como **Power BI**
 ## 🚀 Tecnologías que utilizo o estoy integrando:
 - Python (automatización, análisis de datos, machine learning)
 - Pandas, NumPy, Scikit-Learn
+- Keras y TensorFlow (para modelos de Deep Learning)
 - Power BI (en integración para reportería financiera)
 - SQL (en formación, orientado a análisis y consulta de datos)
 - Docker
