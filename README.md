@@ -23,7 +23,7 @@ Actualmente me encuentro en proceso de incorporar herramientas como **Power BI**
 
 ## 🌐 Conecta conmigo:
 - [LinkedIn](https://www.linkedin.com/in/miguel-ismael-acuña-gaete)
-- Email: miguel.acuna.g@gmail.com / macunaga@fen.uchile.cl
+- Email: macunaga@fen.uchile.cl / miguel.acuna.g@gmail.com
   
 
 ---
