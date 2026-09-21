@@ -1,27 +1,50 @@
 # 👋 Hola, soy Miguel Acuña Gaete
 
-Especialista en Finanzas Corporativas con foco en automatización de procesos, análisis de datos y Machine Learning aplicado a decisiones de negocio.
+Ingeniero Comercial y profesional de Finanzas con experiencia en Business Intelligence, análisis de datos y automatización de procesos.
 
-Trabajo con Python (pandas, numpy) y Power BI para crear soluciones analíticas que optimizan procesos financieros y generan insights de alto valor. Actualmente estoy ampliando mis capacidades hacia Machine Learning, Power BI avanzado y herramientas Cloud (Azure/AWS) para desarrollar soluciones más escalables y modernas.
+Me especializo en transformar información financiera y operacional en soluciones analíticas que facilitan la toma de decisiones, optimizan procesos y mejoran la eficiencia de las organizaciones.
 
-Mi objetivo es integrar finanzas, datos y tecnología para impulsar la eficiencia y la transformación digital en las organizaciones.
+Trabajo principalmente con **Power BI, Python y SQL**, desarrollando dashboards, modelos de datos, procesos ETL y automatizaciones aplicadas al negocio.
 
-## 🚀 Tecnologías que utilizo o estoy integrando:
-- Python (automatización, análisis de datos, machine learning)
-- Pandas, NumPy, Scikit-Learn
-- Keras y TensorFlow (para modelos de Deep Learning)
-- Power BI (en integración para reportería financiera)
-- SQL (en formación, orientado a análisis y consulta de datos)
-- Docker
+Actualmente estoy desarrollando **MAC Data Analytics (MACDA)**, un proyecto de consultoría enfocado en Business Intelligence y Data & Automation. Paralelamente, continúo ampliando mis conocimientos en Inteligencia Artificial aplicada, Microsoft Azure y Microsoft Fabric.
+
+Mi objetivo es conectar las finanzas, los datos y la tecnología para transformar problemas de negocio en soluciones prácticas, escalables y de alto valor.
+
+---
+
+## 🚀 Tecnologías y herramientas
+
+### 📊 Business Intelligence & Analytics
+- Power BI, DAX y Power Query
+- Modelamiento de datos y desarrollo de dashboards
+- KPIs, reporting y análisis financiero
+
+### 🐍 Data & Automation
+- Python, Pandas y NumPy
+- SQL
+- ETL y automatización de procesos
+- Excel avanzado
+
+### 💻 Desarrollo y control de versiones
 - Git y GitHub
-- Microsoft Azure (en formación)
+- Visual Studio Code
+- Codex
 
-## 🎯 Áreas de interés:
-- Finanzas Corporativas
-- Automatización de procesos financieros
-- Machine Learning para negocios
-- Data Analytics & Visualización
-- Cloud Computing (Azure/AWS)
+### 📚 En desarrollo
+- Microsoft Azure y Microsoft Fabric
+- Inteligencia Artificial aplicada y agentes IA
+- Machine Learning
+
+---
+
+## 🎯 Áreas de especialización e interés
+
+- Business Intelligence y Data Analytics
+- Finanzas corporativas, crédito y cobranza
+- Automatización de procesos financieros y operacionales
+- Integración y transformación de datos
+- Inteligencia Artificial aplicada a negocios
+- Arquitecturas de datos y soluciones Cloud
 
 ## 🌐 Conecta conmigo:
 - [LinkedIn](https://www.linkedin.com/in/miguel-ismael-acuña-gaete)
