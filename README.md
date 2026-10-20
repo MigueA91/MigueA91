@@ -1,53 +1,47 @@
 
 # 👋 Hola, soy Miguel Acuña Gaete
 
-### Business Intelligence · Data Analytics · Automation
+### Business Intelligence · Data Analytics · Machine Learning · Automation
 
 **Ingeniero Comercial | Magíster en Finanzas | Fundador de MAC Data Analytics**
 
-Profesional con **16 años de experiencia corporativa**, incluyendo trayectoria en empresas multinacionales, combinando conocimientos de finanzas, gestión empresarial y tecnología.
+Profesional con **16 años de experiencia corporativa en empresas multinacionales**, combinando conocimientos de finanzas, gestión empresarial y tecnología.
 
-Me especializo en conectar las necesidades del negocio con herramientas de **Business Intelligence, análisis de datos y automatización**, transformando información en soluciones que facilitan la toma de decisiones y optimizan procesos.
+Me especializo en **Business Intelligence, análisis de datos y automatización de procesos**, desarrollando soluciones que transforman información financiera y operacional en herramientas para la toma de decisiones.
 
-Trabajo principalmente con **Microsoft Power BI, Python y SQL**, desarrollando plataformas analíticas, modelos de datos, procesos ETL y automatizaciones aplicadas a desafíos reales de gestión.
+Trabajo principalmente con **Microsoft Power BI, Python y SQL**, integrando modelamiento de datos, procesos ETL, dashboards interactivos y automatizaciones.
 
-Actualmente estoy impulsando **MAC Data Analytics (MACDA)**, mi consultora especializada en Business Intelligence y Data & Automation.
+Actualmente impulso **MAC Data Analytics (MACDA)**, mi consultora de Business Intelligence y Data & Automation, mientras continúo profundizando mis conocimientos en **Machine Learning, Inteligencia Artificial aplicada, Microsoft Azure y Fabric**.
 
 🌐 [MAC Data Analytics](https://macda.cl) · 💼 [LinkedIn](https://www.linkedin.com/in/miguel-ismael-acuna-gaete/)
 
 ---
 
-## 🚀 Especialización técnica
+## 🚀 Tecnologías y especialización
 
 ### 📊 Business Intelligence & Analytics
-
-Diseño y modernización de dashboards y plataformas de gestión para analizar información, monitorear indicadores y apoyar decisiones empresariales.
-
 - Microsoft Power BI, DAX y Power Query
-- Modelamiento de datos y desarrollo de medidas
-- Dashboards y reportes interactivos
-- KPIs, reporting y análisis financiero
-- Modernización de soluciones Power BI existentes
-- Desarrollo de proyectos Power BI en formato PBIP
+- Modelamiento de datos, KPIs y dashboards
+- Reporting y análisis financiero
+- Modernización de plataformas Power BI y proyectos PBIP
 
-### ⚙️ Data & Automation
-
-Desarrollo de procesos automatizados para integrar, transformar y validar información proveniente de distintas fuentes.
-
+### 🐍 Data Engineering & Automation
 - Python, Pandas y NumPy
-- SQL y transformación de datos
-- Procesos ETL y validaciones de calidad
-- Automatización de reportes y tareas repetitivas
-- Integración de Excel, bases de datos y sistemas empresariales
-- Aplicaciones de apoyo a la gestión
+- SQL, procesos ETL y validación de datos
+- Automatización de procesos financieros y operacionales
+- Integración de Excel, ERP y bases de datos
 
-### 💻 Desarrollo y herramientas
+### 🤖 Machine Learning & AI
+- Análisis exploratorio y preparación de datos
+- Machine Learning y analítica predictiva (en desarrollo)
+- Inteligencia Artificial aplicada a negocios
+- Microsoft Azure y Microsoft Fabric (en formación)
 
+### 💻 Desarrollo
 - Git y GitHub
 - Visual Studio Code
 - Claude Code y Codex
-- Desarrollo asistido por Inteligencia Artificial
-- Excel avanzado
+- Desarrollo asistido por IA
 
 ---
 
@@ -55,85 +49,49 @@ Desarrollo de procesos automatizados para integrar, transformar y validar inform
 
 ### Datos que impulsan decisiones.
 
-**MAC Data Analytics (MACDA)** es una consultora enfocada en ayudar a las organizaciones a aprovechar mejor su información y optimizar sus procesos mediante soluciones de Business Intelligence y automatización.
+**MACDA** es una consultora especializada en Business Intelligence y automatización, enfocada en transformar desafíos empresariales en soluciones prácticas basadas en datos.
 
-Nuestro enfoque combina tres elementos:
+Nuestro enfoque:
 
-**01 · NEGOCIO**  
-Comprender los procesos, desafíos e indicadores que realmente importan.
+**01 · NEGOCIO** → Comprender procesos y necesidades.  
+**02 · DATOS** → Integrar, transformar y analizar información.  
+**03 · TECNOLOGÍA** → Desarrollar soluciones que generen valor.
 
-**02 · DATOS**  
-Integrar, estructurar y transformar información en una base confiable.
-
-**03 · TECNOLOGÍA**  
-Desarrollar soluciones analíticas y automatizaciones adaptadas a cada necesidad.
-
-🌐 **Sitio web:** [www.macda.cl](https://macda.cl)
+🌐 **[Visita MAC Data Analytics](https://macda.cl)**
 
 ---
 
-## 📂 Proyectos y demostraciones
+## 📂 Proyectos destacados
 
-Soluciones desarrolladas con enfoque en problemas reales de negocio, utilizando datos sintéticos para fines demostrativos.
+### 📈 Plataforma de Cobranza — Power BI
+Dashboard y plataforma analítica para monitorear cartera, indicadores de cobranza y gestión operacional.
 
-### 📈 Plataforma de Cobranza
+🔗 [Explorar plataforma](https://macda.cl/collections-analytics.html)
 
-Solución de Business Intelligence desarrollada en **Microsoft Power BI** para el seguimiento de indicadores de cobranza, análisis de cartera y gestión operacional.
+### 📊 Plataforma de Crédito Operacional — Power BI
+Plataforma interactiva para analizar solicitudes, indicadores crediticios y desempeño operacional.
 
-Incluye vistas de resumen ejecutivo, líneas de crédito y mora.
+🔗 [Explorar plataforma](https://macda.cl/credit-operations-analytics.html)
 
-🔗 [Explorar plataforma de Cobranza](https://macda.cl/collections-analytics.html)
-
-### 📊 Plataforma de Crédito Operacional
-
-Plataforma analítica desarrollada en **Microsoft Power BI** para explorar indicadores de gestión crediticia, solicitudes y desempeño operacional.
-
-Permite analizar información mediante distintas vistas, métricas y filtros interactivos.
-
-🔗 [Explorar plataforma de Crédito Operacional](https://macda.cl/credit-operations-analytics.html)
-
-> **Nota:** Los proyectos demostrativos utilizan información sintética y no representan datos reales de clientes.
+> Demostraciones desarrolladas con datos sintéticos.
 
 ---
 
-## 🎯 Experiencia y enfoque profesional
+## 🎯 Experiencia profesional
 
-Mi trayectoria se ha desarrollado principalmente en áreas financieras y operacionales, incorporando progresivamente Business Intelligence, análisis de datos y automatización.
+Mi experiencia combina **finanzas corporativas, crédito, cobranza, Business Intelligence y automatización**, con foco en conectar las necesidades empresariales con soluciones tecnológicas.
 
-**Áreas de experiencia:**
-
-- Finanzas corporativas y gestión empresarial
-- Crédito, cobranza y análisis de cartera
-- Business Intelligence y Data Analytics
-- Automatización de procesos financieros y operacionales
-- Integración y transformación de información
-- Diseño de indicadores y reporting ejecutivo
-
-Esta combinación de **experiencia empresarial y capacidades técnicas** constituye la base de mi trabajo en MACDA.
+Esta visión de negocio constituye la base de mi trabajo en MACDA.
 
 ---
 
-## 📚 Aprendizaje continuo
+## 🌐 Contacto
 
-Actualmente continúo profundizando mis conocimientos en:
-
-- Microsoft Azure y Microsoft Fabric
-- Inteligencia Artificial aplicada a negocios
-- Agentes de IA y automatización inteligente
-- Machine Learning y analítica avanzada
-
-Mi objetivo es incorporar nuevas tecnologías cuando aporten valor real a los procesos y decisiones de una organización.
-
----
-
-## 🌐 Conectemos
-
-Me interesa colaborar en proyectos relacionados con Business Intelligence, automatización, análisis de datos y transformación de procesos empresariales.
-
-- 🌐 **MAC Data Analytics:** [macda.cl](https://macda.cl)
+- 🌐 **Web:** [macda.cl](https://macda.cl)
 - 💼 **LinkedIn:** [Miguel Acuña Gaete](https://www.linkedin.com/in/miguel-ismael-acuna-gaete/)
 - 💻 **GitHub:** [MigueA91](https://github.com/MigueA91)
-- ✉️ **Email:** miguel.acuna.g@gmail.com
+- ✉️ **Universidad de Chile (FEN):** macunaga@fen.uchile.cl
+- ✉️ **Personal:** miguel.acuna.g@gmail.com
 
 ---
 
